@@ -1,0 +1,16 @@
+
+public class Internship {
+
+	public static void main(String args[]) {
+		
+		System.out.print("More hands on learning about coding/programming");
+			
+			System.out.print.ln("MATO ALWAYS WINNIN");
+		
+		
+		
+		
+	}
+	
+}
+

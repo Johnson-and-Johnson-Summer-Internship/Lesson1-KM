@@ -1,0 +1,21 @@
+
+public class Review {
+	
+		public static void main(String args[] )  {
+			
+			System.out.println("Mato");
+			
+			System.out.println("Always");
+			
+			System.out.println("Win");
+			
+			System.out.println("...");
+			
+			System.out.println("Simple");
+			
+			
+			
+			
+		}
+
+}

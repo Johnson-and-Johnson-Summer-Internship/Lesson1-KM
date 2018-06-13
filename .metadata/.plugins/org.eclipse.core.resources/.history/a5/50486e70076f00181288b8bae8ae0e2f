@@ -1,0 +1,25 @@
+
+public class Internship {
+
+	public static void main(String args[]) {
+		
+		 
+		System.out.print("Mato");
+		
+			System.out.print(" Always");
+			
+				System.out.print(" Tuning");   
+				
+					System.out.println(" Out");
+					
+		int t = 69;
+				
+				System.out.println("Use code 'MATO' for 15% off your next online purchase");
+		 		
+		 		
+		
+		
+	}
+	
+}
+
